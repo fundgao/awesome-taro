@@ -14,7 +14,7 @@
     "build:alipay": "taro build --type alipay",
     "build:tt": "taro build --type tt",
     "build:qq": "taro build --type qq",
-    "dev:weapp": "npm run build:weapp -- --watch",
+    "dev": "npm run build:weapp -- --watch",
     "dev:swan": "npm run build:swan -- --watch",
     "dev:alipay": "npm run build:alipay -- --watch",
     "dev:tt": "npm run build:tt -- --watch",
