@@ -28,3 +28,15 @@ npm run build:weapp
 ```bash
 npm install taro-ui
 ```
+
+## 卸载 Taro
+```
+cd /usr/local/lib/node_modules
+rm -rf \@tarojs/
+
+安装指定版本
+npm install -g @tarojs/cli@3.2.1
+
+安装最新版
+npm install -g @tarojs/cli@latest
+```
