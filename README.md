@@ -40,3 +40,5 @@ npm install -g @tarojs/cli@3.2.1
 安装最新版
 npm install -g @tarojs/cli@latest
 ```
+
+
