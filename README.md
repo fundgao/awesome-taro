@@ -1,4 +1,4 @@
-# weapp-taro
+# awesome-taro
 
 taro for learn
 
@@ -6,6 +6,13 @@ taro for learn
 
 - Node.js v18.13.0
 - Taro v3.6.18
+
+# [Taro 4.0](https://taro-docs.jd.com/docs/next/)
+* 鸿蒙端平台支持 —— Web To Harmony
+* 小程序性能优化 —— CompileMode
+* React Native 适配升级 —— 支持 0.73 版本
+* 新的编译系统支持 —— Vite
+* 基建更新改造 —— Rust
 
 ## ⏬ Install
 
