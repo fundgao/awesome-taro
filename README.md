@@ -13,6 +13,8 @@ taro for learn
 * React Native 适配升级 —— 支持 0.73 版本
 * 新的编译系统支持 —— Vite
 * 基建更新改造 —— Rust
+* Taro页面组件 https://nervjs.github.io/taro-docs/docs/react-page
+* 微信公众平台 https://mp.weixin.qq.com/
 
 ## ⏬ Install
 
