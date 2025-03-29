@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "weapp-taro",
-  "description": "",
+  "projectname": "myApp",
+  "description": "Nova简历生成器",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,
@@ -13,4 +13,3 @@
   },
   "compileType": "miniprogram"
 }
-
