@@ -27,7 +27,8 @@
     "dev:rn": "npm run build:rn -- --watch",
     "dev:qq": "npm run build:qq -- --watch",
     "dev:jd": "npm run build:jd -- --watch",
-    "dev:harmony-hybrid": "npm run build:harmony-hybrid -- --watch"
+    "dev:harmony-hybrid": "npm run build:harmony-hybrid -- --watch",
+    "prepare": "husky install"
   },
   "browserslist": {
     "development": [
@@ -62,6 +63,10 @@
     "react": "^18.0.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^18.2.0",
+    "@commitlint/config-conventional": "^18.1.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
     "@babel/core": "^7.24.4",
     "@tarojs/cli": "4.0.9",
     "@babel/plugin-proposal-class-properties": "7.14.5",
