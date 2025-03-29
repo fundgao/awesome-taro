@@ -1,5 +1,5 @@
 {
-  "name": "myApp",
+  "name": "Nova简历生成器",
   "version": "1.0.0",
   "private": true,
   "description": "Nova简历生成器",
@@ -41,7 +41,12 @@
       "ios >= 8"
     ]
   },
-  "author": "",
+  "author": "fundgao",
+  "lint-staged": {
+    "*.{js,jsx,tsx,ts,vue}": [
+      "eslint --fix"
+    ]
+  },
   "dependencies": {
     "@babel/runtime": "^7.24.4",
     "@tarojs/components": "4.0.9",
